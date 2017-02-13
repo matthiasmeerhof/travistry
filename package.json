@@ -1,5 +1,5 @@
 {
-  "name": "travistry"
+  "name": "travistry",
   "description": "Simple Travis-CI check for JSHint (Code Linting)",
   "author": "Matthias Meerhof",
   "version": "0.0.1",
